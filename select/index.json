@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Human After All",
+  "base_artist": "Daft Punk",
+  "createdAt": "2025-12-14T08:09:59.105678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Human After All",
+      "artist": "Ultra",
+      "has_synced": true,
+      "path": "select/01_Human_After_All_Ultra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Human After All/Together/One More Time/Music Sounds Better With You",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/02_Human_After_All_Together_One_More_Time_Music_Sounds_Better_With_You_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Encore: Human After All \u0000 Together \u0000 One More Time (Reprise) \u0000 Music Sounds Better With You",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/03_Encore__Human_After_All_\u0000_Together_\u0000_One_More_Time_(Reprise)_\u0000_Music_Sounds_Bett_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Human After All",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/04_Human_After_All_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Human After All - \"Guy-Man After All \"- Justice Remix",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/05_Human_After_All_-__Guy-Man_After_All__-_Justice_Remix_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Human After All (Guy-Man After All Justice Remix)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/06_Human_After_All_(Guy-Man_After_All_Justice_Remix)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Human After All - SebastiAn Remix",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/07_Human_After_All_-_SebastiAn_Remix_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Human After All (SebastiAn Remix)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/08_Human_After_All_(SebastiAn_Remix)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Superheroes / Human After All / Rock'n Roll",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/09_Superheroes___Human_After_All___Rock'n_Roll_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Superheroes \u0000 Human After All \u0000 Rock'n Roll",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/10_Superheroes_\u0000_Human_After_All_\u0000_Rock'n_Roll_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Human After All \u0000 Together \u0000 One More Time (Reprise) \u0000 Music Sounds Better With You",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/11_Human_After_All_\u0000_Together_\u0000_One_More_Time_(Reprise)_\u0000_Music_Sounds_Better_With__Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Human After All (Justice Mix)",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/12_Human_After_All_(Justice_Mix)_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Human After All (remix)",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/13_Human_After_All_(remix)_Daft_Punk.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Human After All",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/pl_01_Human_After_All_Daft_Punk.txt"
+    }
+  ]
+}
